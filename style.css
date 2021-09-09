@@ -99,6 +99,9 @@ label {
   text-align: center;
   font-size: 18px;
   max-width: fit-content;
+  width: intrinsic;
+  width: -moz-max-content;
+  width: -webkit-max-content;
 }
 
 .best-score span {
