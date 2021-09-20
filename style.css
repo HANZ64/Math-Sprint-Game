@@ -312,6 +312,7 @@ footer a:visited {
 
   footer a {
     color: white;
+    top: 0;
     z-index: 200;
   }
 
