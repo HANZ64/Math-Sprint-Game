@@ -309,6 +309,15 @@ footer a:visited {
     text-align: center;
     z-index: 100;
   }
+
+  footer a {
+    color: white;
+    z-index: 200;
+  }
+
+  footer a:visited {
+    color: white;
+  }
 }
 
 /* Media Query: Large Smartphone (Vertical) */
